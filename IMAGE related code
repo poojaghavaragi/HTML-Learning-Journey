@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Personal Webpage</title>
+
+    <style>
+        body {
+            background-color: lightblue;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        p {
+            color: black;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Welcome to My Website!</h1>
+
+    <p>*Engineering is the creative application of science, mathematics, and technology to solve real-world problems.
+    </p>
+    <p>* From designing sustainable infrastructure and clean energy systems to developing cutting-edge software and
+        robotics, engineers shape the modern world.</p>
+    <p> *Through continuous innovation, critical thinking, and precise
+        design, engineering turns ambitious ideas into practical solutions that improve everyday life.</p>
+
+    <h2> Marks in 3 subjects</h2>
+
+    <table border="1">
+        <tr>
+            <th>Subject</th>
+            <th>Marks</th>
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>85</td>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>Mathematics</td>
+            <td>80</td>
+        </tr>
+    </table>
+    <h3>Useful Website</h3>
+    <a href="https://www.google.com">
+        Visit Google
+    </a>
+    <h2> Learning Plan</h2>
+    <ol>
+        <li>Learn HTML</li>
+        <li>Learn CSS</li>
+        <li>Learn JavaScript</li>
+    </ol>
+</body>
+
+</html>
